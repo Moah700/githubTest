@@ -1,0 +1,78 @@
+Source,Target,time
+T.Foyer,W.Enterence,20.22
+T.Foyer,R.Stairs,13.03
+T.Foyer,S.Center,14.96
+T.Foyer,Nurse,16.23
+T.Foyer,G.Stairs,16.28
+R.Stairs,Commons,4.32
+R.Stairs,Y.Stairs,17.84
+R.Stairs,Booster,18.66
+Y.Stairs,Booster,17.28
+Booster,G.Foyer,5.41
+G.Foyer,F.Gym,9.5
+F.Gym,Playground,26.81
+Playground,Gallery,23.51
+Gallery,Yb.room,7.35
+Nurse,G.Stairs,8.34
+Nurse,B.Stairs,13.98
+G.Stairs,B.Stairs,17.96
+B.Stairs,S.Center,10.5
+B.Stairs,L.Enterence,28.38
+G.Stairs,L.Enterence,29.99
+Nurse,L.Enterence,24.32
+T.Foyer,Commons,12.78
+F.Entrance,F.Desk,13.12
+F.Desk,Library.E,6.77
+Library.F,Elevator,16.01
+Library.F,Silent.L,8.58
+Library.F,Lower.M,12.64
+Library.F,G.Stairs,9.55
+G.Stairs,Lower.M,5.54
+Library.E,R.Stairs,15.28
+Bottom O.Stairs,Library.Back.E,12.26
+Bottom O.Stairs,Mill,23.45
+Mill,Ali.R,7.45
+R.Stairs,Boardroom,2.02
+Cs Room,Learning Commons,4.47
+Learning Commons,Science offices,4.5
+Science office,B.Stairs,9
+B.Stairs,Blue pod,4.01
+Blue pod,Top teal,7.28
+B.Stairs,Top teal,12.06
+Science offices,Top teal,17.5
+Science offices,G.Stairs,16.23
+G.Stairs,Green pod,3.48
+Green pod,Top teal,10.19
+G.Stairs,Elevator,6.14
+Elevator,R.Stairs,16.32
+R.Stairs,Math pod,4.32
+Math pod,Top O.Stairs,8.45
+Top O.Stairs,R.Stairs,11.45
+Top O.Stairs,HS offices,3.98
+HS offices,Hs entrance,2.87
+Hs entrance,World languages,13.6
+World languages,Social studies,10.45
+Social studies,English,20.11
+English,Hs entrance,21.09
+Hs entrance,Sld/health,12.58
+Sld/health,English,11.55
+Sld/health,World language,20
+Top O.Stairs,Bottom O.Stairs,8.9
+T.Foyer,Auditorium (Center),7.9
+Corridor entrance,Bookstore,5.43
+Corridor entrance,Kitchen,5.4
+Bookstore,PCA,2.51
+PCA,Elevator,3.17
+PCA,MPR1,16.15
+MPR1,Elevator,18.11
+F.Gym,B.Gym,8.85
+B.Gym,Locker room,12.37
+Locker room,MPR3,12.42
+MPR3,Gym,9.89
+Gym,Swimming locker room,5.99
+MPR3,Swimming locker room,4.95
+Locker room,Pool,2.25
+Gym,Courtyard,4.91
+Courtyard,Photo Room,13.88
+Photo Room,Bottom purple staircase,1
+Courtyard,Bottom purple staircase,12.02
